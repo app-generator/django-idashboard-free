@@ -31,7 +31,6 @@ This product is **built based on community feedback**. Feel free (anonymously) t
 
 - [Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) - Product page
 - [Django iDashboard Free](https://django-idashboard-free.appseed.us/login/) - LIVE Demo
-- [Django iDashboard Free](https://docs.appseed.us/admin-dashboards/django-idashboard-free/) - Documentation
 
 <br />
 
