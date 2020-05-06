@@ -170,9 +170,9 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
-### [Datta Able Free Dashboard](https://codedthemes.com/item/datta-able-bootstrap-lite/)
+### [iDashboard - iOS design system](https://yookits.com/product/idashboard-ios-admin-dashboard-template/)
 
-Datta Able Bootstrap Lite is the most styled Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code, which saves your large amount of developing backend application time and it is fully customizable. - provided by **CodedThemes**.
+iDashboard is a free, lightweight admin dashboard template that’s built on top of Bootstrap & Apple’s human interface guidelines. Brilliant design meeting clean code, it’s become quite popular in the dev community. Grab this epic free template today and take your app to a whole new level. - provided by **[YooKits](https://yookits.com)**.
 
 <br />
 
